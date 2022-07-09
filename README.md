@@ -76,7 +76,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.kurtosis;
+})();
 })();
 </script>
 ```
@@ -158,6 +160,7 @@ v = kurtosis( 3.0, -1.0 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-f-kurtosis@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var d1;
 var d2;
@@ -171,6 +174,7 @@ for ( i = 0; i < 10; i++ ) {
     console.log( 'd1: %d, d2: %d, skew(X;d1,d2): %d', d1.toFixed( 4 ), d2.toFixed( 4 ), v.toFixed( 4 ) );
 }
 
+})();
 })();
 </script>
 </body>
