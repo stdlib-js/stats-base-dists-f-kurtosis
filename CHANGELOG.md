@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-20)
+
+<section class="features">
+
+### Features
+
+-   [`67eacfd`](https://github.com/stdlib-js/stdlib/commit/67eacfd73be1ac9ac96595eee7dabd21ccdc2ffb) - add C implementation for `stats/base/dists/f/kurtosis` [(#4043)](https://github.com/stdlib-js/stdlib/pull/4043)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3596](https://github.com/stdlib-js/stdlib/issues/3596)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`67eacfd`](https://github.com/stdlib-js/stdlib/commit/67eacfd73be1ac9ac96595eee7dabd21ccdc2ffb) - **feat:** add C implementation for `stats/base/dists/f/kurtosis` [(#4043)](https://github.com/stdlib-js/stdlib/pull/4043) _(by Vivek maurya, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Vivek maurya
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
