@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`318f280`](https://github.com/stdlib-js/stdlib/commit/318f28057bf00d910a656c4f315b8de17f89d3b5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`67eacfd`](https://github.com/stdlib-js/stdlib/commit/67eacfd73be1ac9ac96595eee7dabd21ccdc2ffb) - **feat:** add C implementation for `stats/base/dists/f/kurtosis` [(#4043)](https://github.com/stdlib-js/stdlib/pull/4043) _(by Vivek maurya, Philipp Burckhardt)_
 
 </details>
