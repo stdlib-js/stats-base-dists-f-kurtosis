@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-14)
+## Unreleased (2026-09-22)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`7e7b440`](https://github.com/stdlib-js/stdlib/commit/7e7b440dfe9574c5926873680e838a9f80431913) - **test:** migrate `stats/base/dists/f/kurtosis` to ULP-based testing [(#15402)](https://github.com/stdlib-js/stdlib/pull/15402) _(by Divyanshu)_
 -   [`b5b7b4c`](https://github.com/stdlib-js/stdlib/commit/b5b7b4cf9937655b9167cb0145394c787f36faeb) - **refactor:** add `isnan` guards [(#13362)](https://github.com/stdlib-js/stdlib/pull/13362) _(by Philipp Burckhardt)_
 -   [`c14812b`](https://github.com/stdlib-js/stdlib/commit/c14812bfee0ec6951166b9ff869289a39eba4174) - **style:** add missing decimal _(by Athan Reines)_
 -   [`f884c94`](https://github.com/stdlib-js/stdlib/commit/f884c94958214a509cf48747280543d3b5ec396f) - **chore:** minor clean-up _(by Philipp Burckhardt)_
@@ -28,9 +29,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Divyanshu
 -   Lokesh Ranjan
 -   Philipp Burckhardt
 
